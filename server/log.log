@@ -1,0 +1,54 @@
+[INFO] 08:10:47:876 Servidor/(29086:29086): Servidor listo para recibir al cliente
+[INFO] 08:19:00:622 Servidor/(29086:29086): Se conecto un cliente!
+[ERROR] 08:19:00:915 Servidor/(29086:29086): el cliente se desconecto. Terminando servidor
+[INFO] 23:58:44:674 Servidor/(5856:5856): Servidor listo para recibir al cliente
+[INFO] 00:20:55:258 Servidor/(5856:5856): Se conecto un cliente!
+[ERROR] 00:20:55:499 Servidor/(5856:5856): el cliente se desconecto. Terminando servidor
+[INFO] 00:21:26:766 Servidor/(6083:6083): Servidor listo para recibir al cliente
+[INFO] 00:23:32:530 Servidor/(6083:6083): Se conecto un cliente!
+[ERROR] 00:23:49:953 Servidor/(6083:6083): el cliente se desconecto. Terminando servidor
+[INFO] 00:44:25:400 Servidor/(6522:6522): Servidor listo para recibir al cliente
+[INFO] 00:45:10:291 Servidor/(6522:6522): Se conecto un cliente!
+[ERROR] 00:45:10:591 Servidor/(6522:6522): el cliente se desconecto. Terminando servidor
+[INFO] 00:46:55:603 Servidor/(6612:6612): Servidor listo para recibir al cliente
+[INFO] 00:47:11:225 Servidor/(6612:6612): Se conecto un cliente!
+[ERROR] 00:47:11:498 Servidor/(6612:6612): el cliente se desconecto. Terminando servidor
+[INFO] 00:49:24:659 Servidor/(6682:6682): Servidor listo para recibir al cliente
+[INFO] 00:50:31:645 Servidor/(6682:6682): Se conecto un cliente!
+[INFO] 00:54:06:739 Servidor/(6794:6794): Servidor listo para recibir al cliente
+[INFO] 00:54:24:062 Servidor/(6794:6794): Se conecto un cliente!
+[INFO] 00:54:24:062 Servidor/(6794:6794): Me llego el mensaje juan
+[ERROR] 00:59:05:422 Servidor/(6794:6794): el cliente se desconecto. Terminando servidor
+[INFO] 01:01:41:620 Servidor/(7018:7018): Servidor listo para recibir al cliente
+[INFO] 01:02:46:178 Servidor/(7018:7018): Se conecto un cliente!
+[INFO] 01:03:34:402 Servidor/(7079:7079): Servidor listo para recibir al cliente
+[INFO] 01:03:44:661 Servidor/(7079:7079): Se conecto un cliente!
+[INFO] 01:04:09:196 Servidor/(7079:7079): Me llego el mensaje juan
+[INFO] 01:06:19:112 Servidor/(7214:7214): error al asociar el puerto (bind)
+[INFO] 01:06:19:636 Servidor/(7214:7214): Servidor listo para recibir al cliente
+[INFO] 01:08:34:598 Servidor/(7286:7286): Servidor listo para recibir al cliente
+[INFO] 01:08:48:270 Servidor/(7286:7286): Se conecto un cliente!
+[INFO] 01:08:57:910 Servidor/(7286:7286): Me llego el mensaje juan
+[INFO] 01:09:27:739 Servidor/(7286:7286): Me llegaron los siguientes valores:
+
+[ERROR] 01:09:31:802 Servidor/(7286:7286): el cliente se desconecto. Terminando servidor
+[INFO] 01:11:22:433 Servidor/(7417:7417): Servidor listo para recibir al cliente
+[INFO] 01:11:31:189 Servidor/(7417:7417): Se conecto un cliente!
+[INFO] 01:11:31:190 Servidor/(7417:7417): Me llego el mensaje juan
+[INFO] 01:12:47:546 Servidor/(7417:7417): Me llegaron los siguientes valores:
+
+[ERROR] 01:12:47:769 Servidor/(7417:7417): el cliente se desconecto. Terminando servidor
+[INFO] 01:13:23:489 Servidor/(7473:7473): Servidor listo para recibir al cliente
+[INFO] 01:13:52:443 Servidor/(7473:7473): Se conecto un cliente!
+[INFO] 01:13:52:444 Servidor/(7473:7473): Me llego el mensaje juan
+[INFO] 01:14:05:109 Servidor/(7473:7473): Me llegaron los siguientes valores:
+
+[ERROR] 01:14:05:332 Servidor/(7473:7473): el cliente se desconecto. Terminando servidor
+[INFO] 01:25:01:459 Servidor/(7734:7734): Servidor listo para recibir al cliente
+[INFO] 01:25:11:198 Servidor/(7734:7734): Se conecto un cliente!
+[INFO] 01:25:11:200 Servidor/(7734:7734): Me llego el mensaje juan
+[INFO] 01:25:38:771 Servidor/(7734:7734): Me llegaron los siguientes valores:
+
+[INFO] 01:25:38:772 Servidor/(7734:7734): juanse
+[INFO] 01:25:38:772 Servidor/(7734:7734): lk
+[ERROR] 01:25:38:979 Servidor/(7734:7734): el cliente se desconecto. Terminando servidor
